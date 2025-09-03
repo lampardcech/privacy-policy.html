@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Privacy Policy - TokMate Video Downloader</title>
 </head>
 <body>
   <h2>Privacy Policy for TokMate – Video Downloader</h2>
