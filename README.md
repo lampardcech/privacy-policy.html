@@ -50,9 +50,5 @@
   <ul>
     <li>We may update this Privacy Policy from time to time. Any updates will be reflected on this page with a revised "Effective Date."</li>
   </ul>
-
-  <h3>8. Contact Us</h3>
-  <p>If you have any questions or concerns about this Privacy Policy or our practices, you may contact us at:<br>
-  📧 your-email@example.com</p>
 </body>
 </html>
